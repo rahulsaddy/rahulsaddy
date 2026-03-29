@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## 👋 Hi I'm Rahul Saddy
+Welcome to my GitHub. I develop data analysis and modeling solutions for businesses using the latest technologies
 <!--
 **rahulsaddy/rahulsaddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
