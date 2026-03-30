@@ -7,10 +7,10 @@ Hello....and welcome to my GitHub.
 - Agentic AI to develop and test Analytical and Data Science solutions
 - Develop and Implement ML Pipelines to operationalize models
 
-### 🚀 Technical Focus & Expertise
+## 🚀 Technical Focus & Expertise
 
 | Focus Area | Core Technologies & Frameworks | Strategic Value |
-| :--- | :--- | :--- |
+| :---: | :---: | :---: |
 | **Agentic AI & Orchestration** | LangChain, Pydantic AI, CrewAI, AutoGen | Accelerating the analytical lifecycle through autonomous agents. |
 | **Advanced Marketing Science** | Python (Statsmodels, Scikit-Learn), Fourier Series | High-precision MMM and time-series forecasting. |
 | **MLOps & Governance** | DigitalOcean, Streamlit, Ollama (Local LLMs) | Operationalizing models with Zero-Trust security and scalability. |
