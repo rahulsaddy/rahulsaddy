@@ -3,9 +3,6 @@ The current leap in AI capabilities demands a fundamental shift in how we archit
 
 Hello....and welcome to my GitHub.
 
-## 🚀 Tech Focus
-- Agentic AI to develop and test Analytical and Data Science solutions
-- Develop and Implement ML Pipelines to operationalize models
 
 ## 🚀 Technical Focus & Expertise
 
