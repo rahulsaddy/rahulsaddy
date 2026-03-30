@@ -8,12 +8,9 @@ Welcome to my GitHub. I develop data analysis and modeling solutions for busines
 ## 🔧 Recent Projects
 - Chatbot to crosscheck 10K/8K filings using Landing.ai document capabilities
 - Forecasting and Marketing Mix models for a Payday Loans company (SigmaAI Analytics Project)
-- Fluent Bit logging for EKS Fargate
 
 ## ✨ Automation
-- DevContainer setup scripts
-- CI for semantic versioning & badge updates
-- Multi-account Terraform patterns
+- ML Pipeline design and implementation for weekly updated forecasting models
 
 <!--
 **rahulsaddy/rahulsaddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
