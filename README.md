@@ -6,12 +6,11 @@ Hello....and welcome to my GitHub.
 
 ## 🚀 Technical Focus & Expertise
 
-| Focus Area | Core Technologies & Frameworks | Strategic Value |
-| :---: | :---: | :---: |
-| **Agentic AI & Orchestration** | LangChain, Pydantic AI, CrewAI, AutoGen | Accelerating the analytical lifecycle through autonomous agents. |
-| **Advanced Marketing Science** | Python (Statsmodels, Scikit-Learn), Fourier Series | High-precision MMM and time-series forecasting. |
-| **MLOps & Governance** | DigitalOcean, Streamlit, Ollama (Local LLMs) | Operationalizing models with Zero-Trust security and scalability. |
-
+| Focus Area | Core Technologies | Strategic Value |
+| :--- | :--- | :--- |
+| **Agentic AI** | <sub>LangChain, Pydantic AI, CrewAI, AutoGen</sub> | <sub>Accelerating the analytical lifecycle through autonomous agents.</sub> |
+| **Marketing Science** | <sub>Python (Statsmodels), Fourier Series, Adstock</sub> | <sub>High-precision MMM and non-linear time-series forecasting.</sub> |
+| **MLOps & Governance** | <sub>DigitalOcean, Streamlit, Ollama (Local LLMs)</sub> | <sub>Operationalizing models with Zero-Trust security and scalability.</sub> |
 
 ## 🔧 Recent Projects
 - Attacking the "Last Mile" problem in Accounting : Chatbot to crosscheck 10K/8K filings using Landing.ai
