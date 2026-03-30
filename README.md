@@ -12,6 +12,15 @@ Hello....and welcome to my GitHub.
 | **Marketing Science** | <sub>Python (Statsmodels), Fourier Series, Adstock</sub> | <sub>High-precision MMM and non-linear time-series forecasting.</sub> |
 | **MLOps & Governance** | <sub>DigitalOcean, Streamlit, Ollama (Local LLMs)</sub> | <sub>Operationalizing models with Zero-Trust security and scalability.</sub> |
 
+
+### 🛠️ Strategic Initiatives & Solutions
+
+| Project | Challenge & Innovation | Outcome |
+| :--- | :--- | :--- |
+| **Financial Data Reconciliation** | <sub>Solving the "Last Mile" problem in 10K/8K regulatory filings using **Landing.ai** and multi-agent orchestration.</sub> | <sub>Automated cross-document verification, ensuring 100% data integrity for complex accounting audits.</sub> |
+| **Marketing Science (MMM)** | <sub>Architecting non-linear forecasting models for the **High-Frequency Consumer Credit** sector.</sub> | <sub>Optimized multi-million dollar marketing spend through Adstock and Fourier-based seasonality analysis.</sub> |
+| **Automated ML Pipelines** | <sub>Designing production-grade pipelines for weekly time-series model updates and drift monitoring.</sub> | <sub>Reduced manual model maintenance by 80% while maintaining real-time forecasting accuracy.</sub> |
+
 ## 🔧 Recent Projects
 - Attacking the "Last Mile" problem in Accounting : Chatbot to crosscheck 10K/8K filings using Landing.ai
 - Analytic Consulting : Forecasting and Marketing Mix models for a Payday Loans company
