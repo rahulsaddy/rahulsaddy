@@ -8,8 +8,8 @@ Hello....and welcome to my GitHub.
 - Develop and Implement ML Pipelines to operationalize models
 
 ## 🔧 Recent Projects
-- Chatbot to crosscheck 10K/8K filings using Landing.ai document capabilities
-- Forecasting and Marketing Mix models for a Payday Loans company (SigmaAI Analytics Project)
+- Attacking the "Last Mile" problem in Accounting : Chatbot to crosscheck 10K/8K filings using Landing.ai
+- Analytic Consulting : Forecasting and Marketing Mix models for a Payday Loans company
 
 ## ✨ Automation
 - ML Pipeline design and implementation for weekly updates of forecasting models
