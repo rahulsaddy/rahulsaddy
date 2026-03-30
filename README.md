@@ -2,7 +2,7 @@
 Welcome to my GitHub. I develop data analysis and modeling solutions for businesses using the latest technologies
 
 ## 🚀 Tech Focus
-- Agentic AI to develop and test Analytical solutions
+- Agentic AI to develop and test Analytical and Data Science solutions
 - Develop and Implement ML Pipelines to operationalize models
 
 ## 🔧 Recent Projects
