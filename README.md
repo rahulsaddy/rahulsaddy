@@ -6,8 +6,8 @@ Welcome to my GitHub. I develop data analysis and modeling solutions for busines
 - Develop and Implement ML Pipelines to operationalize models
 
 ## 🔧 Recent Projects
-- Landing.ai
-- Team syncing via GitHub Actions + issues
+- Chatbot to crosscheck 10K/8K filings using Landing.ai document capabilities
+- Forecasting and Marketing Mix models for a Payday Loans company (SigmaAI Analytics Project)
 - Fluent Bit logging for EKS Fargate
 
 ## ✨ Automation
