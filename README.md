@@ -10,7 +10,7 @@ Hello....and welcome to my GitHub.
 | Focus Area | Core Technologies | Strategic Value |
 | :--- | :--- | :--- |
 | **Agentic AI** | <sub>LangChain, Pydantic AI, CrewAI, AutoGen</sub> | <sub>Accelerating the analytical lifecycle through autonomous agents.</sub> |
-| **Data Science and Analytics** | <sub>Python (Statsmodel, XGBoost)</sub> | <sub>High-precision MMM and non-linear time-series forecasting.</sub> |
+| **Data Science and Analytics** | <sub>Python (Statsmodel, XGBoost, Keras)</sub> | <sub>High-precision MMM, non-linear time-series forecasting and Predictive models.</sub> |
 | **MLOps & Governance** | <sub>DigitalOcean, Streamlit, Ollama (Local LLMs)</sub> | <sub>Operationalizing models with Zero-Trust security and scalability.</sub> |
 
 
