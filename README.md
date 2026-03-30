@@ -4,6 +4,7 @@ The current leap in AI capabilities demands a fundamental shift in how we archit
 Hello....and welcome to my GitHub.
 
 
+
 ## 🚀 Technical Focus & Expertise
 
 | Focus Area | Core Technologies | Strategic Value |
@@ -11,6 +12,7 @@ Hello....and welcome to my GitHub.
 | **Agentic AI** | <sub>LangChain, Pydantic AI, CrewAI, AutoGen</sub> | <sub>Accelerating the analytical lifecycle through autonomous agents.</sub> |
 | **Marketing Science** | <sub>Python (Statsmodels), Fourier Series, Adstock</sub> | <sub>High-precision MMM and non-linear time-series forecasting.</sub> |
 | **MLOps & Governance** | <sub>DigitalOcean, Streamlit, Ollama (Local LLMs)</sub> | <sub>Operationalizing models with Zero-Trust security and scalability.</sub> |
+
 
 
 ## 🛠️ Strategic Initiatives & Solutions
@@ -22,13 +24,14 @@ Hello....and welcome to my GitHub.
 | **Automated ML Pipelines** | <sub>Designing production-grade pipelines for weekly time-series model updates and drift monitoring.</sub> | <sub>Reduced manual model maintenance by 80% while maintaining real-time forecasting accuracy.</sub> |
 
 
+
 ## 🌐 Let's Connect
 
 | Platform | Strategic Context | Action |
 | :--- | :--- | :--- |
 | **LinkedIn** | <sub>20+ years of Data Leadership & FinTech expertise.</sub> | [View Professional Profile](https://www.linkedin.com/in/rahulsaddy/) |
-| **SigmaAI Analytics** | <sub>Boutique AI and Analytics consultancy.</sub> | [Explore Consulting Services](https://your-sigmaai-link.com) |
-| **Digital Portfolio** | <sub>Live Streamlit dashboards & Agentic AI proof-of-concepts.</sub> | [View Interactive Demos](https://your-digitalocean-link.com) |
+| **SigmaAI Analytics** | <sub>Boutique AI and Analytics consultancy.</sub> | [Explore Consulting Services](https://sigmaaianalytics.com/) |
+
 
 ---
 > 📍 **Location:** Based in Northern Virginia (DMV)  
@@ -36,7 +39,7 @@ Hello....and welcome to my GitHub.
 
 <!--
 **rahulsaddy/rahulsaddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+| **Digital Portfolio** | <sub>Live Streamlit dashboards & Agentic AI proof-of-concepts.</sub> | [View Interactive Demos](https://your-digitalocean-link.com) |
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
