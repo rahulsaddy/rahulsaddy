@@ -22,11 +22,11 @@ Hello....and welcome to my GitHub.
 | **Automated ML Pipelines** | <sub>Designing production-grade pipelines for weekly time-series model updates and drift monitoring.</sub> | <sub>Reduced manual model maintenance by 80% while maintaining real-time forecasting accuracy.</sub> |
 
 
-### 🌐 Let's Connect
+## 🌐 Let's Connect
 
 | Platform | Strategic Context | Action |
 | :--- | :--- | :--- |
-| **LinkedIn** | <sub>20+ years of Data Leadership & FinTech expertise.</sub> | [View Professional Profile](https://linkedin.com/in/your-profile) |
+| **LinkedIn** | <sub>20+ years of Data Leadership & FinTech expertise.</sub> | [View Professional Profile](https://www.linkedin.com/in/rahulsaddy/) |
 | **SigmaAI Analytics** | <sub>Boutique AI and Analytics consultancy.</sub> | [Explore Consulting Services](https://your-sigmaai-link.com) |
 | **Digital Portfolio** | <sub>Live Streamlit dashboards & Agentic AI proof-of-concepts.</sub> | [View Interactive Demos](https://your-digitalocean-link.com) |
 
