@@ -1,5 +1,6 @@
 ## 👋 Hi I'm Rahul Saddy
 The current leap in AI capabilities demands a fundamental shift in how we architect and deliver business analytics. By integrating agentic frameworks and advanced coding assistants into the development lifecycle, we can now automate foundational tasks like EDA and model initialization with unprecedented precision. This evolution significantly raises the bar, allowing us to deliver higher-quality, sophisticated analytical products at a fraction of the traditional cost and time.
+
 Hello! I'm Rahul Saddy....welcome to my GitHub.
 
 ## 🚀 Tech Focus
