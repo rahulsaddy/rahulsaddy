@@ -13,7 +13,7 @@ Hello....and welcome to my GitHub.
 | **MLOps & Governance** | <sub>DigitalOcean, Streamlit, Ollama (Local LLMs)</sub> | <sub>Operationalizing models with Zero-Trust security and scalability.</sub> |
 
 
-### 🛠️ Strategic Initiatives & Solutions
+## 🛠️ Strategic Initiatives & Solutions
 
 | Project | Challenge & Innovation | Outcome |
 | :--- | :--- | :--- |
@@ -21,12 +21,18 @@ Hello....and welcome to my GitHub.
 | **Marketing Science (MMM)** | <sub>Architecting non-linear forecasting models for the **High-Frequency Consumer Credit** sector.</sub> | <sub>Optimized multi-million dollar marketing spend through Adstock and Fourier-based seasonality analysis.</sub> |
 | **Automated ML Pipelines** | <sub>Designing production-grade pipelines for weekly time-series model updates and drift monitoring.</sub> | <sub>Reduced manual model maintenance by 80% while maintaining real-time forecasting accuracy.</sub> |
 
-## 🔧 Recent Projects
-- Attacking the "Last Mile" problem in Accounting : Chatbot to crosscheck 10K/8K filings using Landing.ai
-- Analytic Consulting : Forecasting and Marketing Mix models for a Payday Loans company
 
-## ✨ Automation
-- ML Pipeline design and implementation for weekly updates of forecasting models
+### 🌐 Let's Connect
+
+| Platform | Strategic Context | Action |
+| :--- | :--- | :--- |
+| **LinkedIn** | <sub>20+ years of Data Leadership & FinTech expertise.</sub> | [View Professional Profile](https://linkedin.com/in/your-profile) |
+| **SigmaAI Analytics** | <sub>Boutique AI and Analytics consultancy.</sub> | [Explore Consulting Services](https://your-sigmaai-link.com) |
+| **Digital Portfolio** | <sub>Live Streamlit dashboards & Agentic AI proof-of-concepts.</sub> | [View Interactive Demos](https://your-digitalocean-link.com) |
+
+---
+> 📍 **Location:** Based in Northern Virginia (DMV)  
+> ✉️ **Inquiries:** For strategic partnerships or senior leadership opportunities, please connect via LinkedIn.
 
 <!--
 **rahulsaddy/rahulsaddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
