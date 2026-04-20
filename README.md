@@ -27,10 +27,10 @@ Hello....and welcome to my GitHub.
 
 ## 🌐 Let's Connect
 
-| Platform | Strategic Context | Action |
+| Platform | Strategic Context | Dig Deeper |
 | :--- | :--- | :--- |
-| **LinkedIn** | <sub>20+ years of Data Leadership & FinTech expertise.</sub> | <sub>[View Professional Profile](https://www.linkedin.com/in/rahulsaddy/) </sub>|
-| **SigmaAI Analytics** | <sub>Boutique AI and Analytics consultancy.</sub> | <sub>[Consulting Work](https://github.com/SigmaAIAnalytics) </sub>|
+| **LinkedIn** | <sub>20+ years of Data Leadership & FinTech expertise.</sub> | <sub>[My Professional Profile](https://www.linkedin.com/in/rahulsaddy/) </sub>|
+| **SigmaAI Analytics** | <sub>Boutique AI and Analytics consultancy.</sub> | <sub>[My Consulting Work](https://github.com/SigmaAIAnalytics) </sub>|
 
 
 ---
