@@ -30,7 +30,7 @@ Hello....and welcome to my GitHub.
 | Platform | Strategic Context | Dig Deeper |
 | :--- | :--- | :--- |
 | **LinkedIn** | <sub>20+ years of Data Leadership & FinTech expertise.</sub> | <sub>[My Professional Profile](https://www.linkedin.com/in/rahulsaddy/) target="_blank" </sub>|
-| **SigmaAI Analytics** | <sub>Boutique AI and Analytics consultancy.</sub> | <sub>[My Consulting Work](https://github.com/SigmaAIAnalytics) </sub>|
+| **SigmaAI Analytics** | <sub>Boutique AI and Analytics consultancy.</sub> | <sub><a href="https://github.com/SigmaAIAnalytics" target="_blank">My Consulting Work</a></sub>|
 
 
 ---
